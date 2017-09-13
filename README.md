@@ -15,7 +15,7 @@ Telegram: @miladkho5hdel
 Documents
 -------------
 
-It this code you learn how to create simple **WebServer**.
+In this code you learn how to create simple **WebServer**.
 
 This Code has been tested on **Arduino Leonardo**. 
 
